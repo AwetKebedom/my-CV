@@ -1,2 +1,4 @@
 I know python
 i know JavaScript
+I know Java
+I know C++
